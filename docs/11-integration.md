@@ -30,6 +30,6 @@ Azure Integration Services provides the components to facilitate common integrat
 
 &#x2726; <https://azure.microsoft.com/product-categories/integration/>  
 
-Video  
+TechTalk Video  
 [![](https://i3.ytimg.com/vi/3zohpfJ_LaM/mqdefault.jpg)](https://youtu.be/3zohpfJ_LaM)
  

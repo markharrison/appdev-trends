@@ -18,6 +18,6 @@ Successful companies will be those that empower software developers to achieve m
 &#x2726; <https://azure.microsoft.com/overview/developer-velocity/>  
 &#x2726; <https://visualstudio.microsoft.com/>  
 
-Video  
+TechTalk Video  
 [![](https://i3.ytimg.com/vi/oK2Lg3YYiuA/mqdefault.jpg)](https://youtu.be/oK2Lg3YYiuA)
  

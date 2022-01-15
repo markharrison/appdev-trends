@@ -25,5 +25,5 @@ Microsoft have several offerings for Edge computing / Internet of Things:
 &#x2726; <https://azure.microsoft.com/overview/azure-stack/>  
 &#x2726; <https://azure.microsoft.com/overview/future-of-cloud/>  
 
-Video  
+TechTalk Video    
 [![](https://i3.ytimg.com/vi/tg77o_TyLgM/mqdefault.jpg)](https://youtu.be/tg77o_TyLgM)

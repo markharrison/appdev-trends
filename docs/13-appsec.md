@@ -25,6 +25,6 @@ Application configuration secrets (e.g. database connection strings, API keys) m
 &#x2726; <https://aka.ms/waf>  
 &#x2726; <https://aka.ms/sdlc>  
 
-Video  
+TechTalk Video  
 [![](https://i3.ytimg.com/vi/RXdWpQPb2JE/mqdefault.jpg)](https://youtu.be/RXdWpQPb2JE)
  

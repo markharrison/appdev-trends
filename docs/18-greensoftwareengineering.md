@@ -17,5 +17,5 @@ I believe application developers can play their part here. Green Software Engine
 &#x2726; <https://devblogs.microsoft.com/sustainable-software/>  
 &#x2726; <https://azure.microsoft.com/global-infrastructure/sustainability/>  
 
-Video  
+TechTalk Video  
 [![](https://i3.ytimg.com/vi/Tcvr30NRWmA/mqdefault.jpg)](https://youtu.be/Tcvr30NRWmA)

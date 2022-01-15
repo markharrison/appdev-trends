@@ -23,5 +23,4 @@ However, I recognise that ‘lockdown remote working’ is not normal remote wor
 
 Stay positive/keep busy, active and learning/build connections with others/and reach out if you want to talk.
 
-&#x2726; <https://www.microsoft.com/en-gb/resilience/remote-development-solutions>  
-&#x2726; <https://cloudblogs.microsoft.com/industry-blog/health/2021/01/27/improving-the-pace-of-vaccine-distribution-through-technology/>  
+&#x2726; <https://www.microsoft.com/resilience/remote-development-solutions>  

@@ -29,5 +29,5 @@ Azure AD B2C – can federate the authentication process with both Azure AD and 
 &#x2726; <https://www.microsoft.com/security/business/identity-access-management>  
 &#x2726; <https://docs.microsoft.com/azure/active-directory/develop/>  
 
-Video  
+TechTalk Video  
 [![](https://i3.ytimg.com/vi/AE92MlnM6qw/mqdefault.jpg)](https://youtu.be/AE92MlnM6qw)

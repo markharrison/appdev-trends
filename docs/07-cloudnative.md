@@ -19,7 +19,6 @@ The application platform needs to auto-scale based on workload demand – scale 
 &#x2726; <https://azure.microsoft.com/overview/serverless-computing/>  
 &#x2726; <https://azure.microsoft.com/overview/cloudnative/>  
 
-
-Video  
+TechTalk Video  
 [![](https://i3.ytimg.com/vi/vx_XnGZCcVY/mqdefault.jpg)](https://youtu.be/vx_XnGZCcVY)
  
