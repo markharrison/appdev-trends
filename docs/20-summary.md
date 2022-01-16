@@ -3,9 +3,7 @@ sidebar_label: 'Summary'
 slug: /summary
 ---
 
-# AppDev Trends
-
-##  Summary  
+# AppDev Trends - Summary  
 
 ![](images/01-introduction.png)
 

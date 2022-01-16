@@ -1,11 +1,9 @@
 ---
 sidebar_label: 'Cloud Native'
-slug: /cloudnative
+slug: /cloud-native
 ---
 
-# AppDev Trends
-
-## Cloud Native
+# Cloud Native
 
 ![](images/07-cloudnative.png)
 

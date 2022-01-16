@@ -3,9 +3,7 @@ sidebar_label: 'Application Security'
 slug: /appsec
 ---
 
-# AppDev Trends
-
-## Application Security
+# Application Security
 
 ![](images/13-appsec.png)
 

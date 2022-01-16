@@ -3,9 +3,7 @@ sidebar_label: 'DevOps'
 slug: /devops
 ---
 
-# AppDev Trends
-
-## DevOps
+# DevOps
 
 ![](images/05-devops.png)
 

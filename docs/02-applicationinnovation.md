@@ -1,11 +1,9 @@
 ---
 sidebar_label: 'Application Innovation'
-slug: /applicationinnovation
+slug: /application-innovation
 ---
 
-# AppDev Trends
-
-## Application Innovation
+# Application Innovation 
 
 ![](images/02-applicationinnovation.png)
 

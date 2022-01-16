@@ -1,11 +1,9 @@
 ---
 sidebar_label: 'Infrastructure as Code'
-slug: /infraascode
+slug: /infrastructur-as-code
 ---
 
-# AppDev Trends
-
-## Infrastructure as Code
+# Infrastructure as Code
 
 ![](images/10-infraascode.png)
 

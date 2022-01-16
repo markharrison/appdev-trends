@@ -1,11 +1,9 @@
 ---
 sidebar_label: 'Remote Development'
-slug: /remoteworking
+slug: /remote-working-development
 ---
 
-# AppDev Trends
-
-##  Remote Development
+# Remote Development
 
 ![](images/19-remoteworking.png)
 

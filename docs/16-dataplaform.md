@@ -1,11 +1,9 @@
 ---
 sidebar_label: 'Data Storage & AI'
-slug: /dataplatform
+slug: /data-platform
 ---
 
-# AppDev Trends
-
-## Data Storage & AI
+# Data Storage & AI
 
 ![](images/16-dataplaform.png)
 

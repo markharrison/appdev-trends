@@ -2,9 +2,8 @@
 sidebar_label: 'Identity'
 slug: /identity
 ---
-# AppDev Trends
 
-## Identity
+# Identity
 
 ![](images/14-identity.png)
 

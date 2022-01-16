@@ -3,9 +3,7 @@ sidebar_label: 'Accessibility'
 slug: /accessibility
 ---
 
-# AppDev Trends
-
-## Accessibility
+# Accessibility
 
 ![](images/17-accessibility.png)
 

@@ -1,11 +1,9 @@
 ---
 sidebar_label: 'Secure Infrastructure'
-slug: /secureinfra
+slug: /secure-infrastructure
 ---
 
-# AppDev Trends
-
-## Secure Infrastructure on Tap - aka the Cloud
+# Secure Infrastructure on Tap - aka the Cloud
 
 ![](images/04-secureinfra.png)
 

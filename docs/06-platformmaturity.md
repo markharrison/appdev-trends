@@ -1,11 +1,9 @@
 ---
 sidebar_label: 'Application Platform Maturity'
-slug: /platformmaturity
+slug: /platform-maturity
 ---
 
-# AppDev Trends
-
-## Application Platform Maturity
+# Application Platform Maturity
 
 ![](images/06-platformmaturity.png)
 

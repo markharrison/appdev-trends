@@ -1,11 +1,9 @@
 ---
 sidebar_label: 'Cross Device / Cross Platform'
-slug: /xplatform
+slug: /cross-platform
 ---
 
-# AppDev Trends
-
-## Cross Device / Cross Platform
+# Cross Device / Cross Platform
 
 ![](images/08-xplatform.png)
 

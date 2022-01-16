@@ -3,9 +3,7 @@ sidebar_label: 'Integration'
 slug: /integration
 ---
 
-# AppDev Trends
-
-## Integration
+# Integration
 
 ![](images/11-integration.png)
 

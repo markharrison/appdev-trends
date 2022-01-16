@@ -1,11 +1,9 @@
 ---
 sidebar_label: 'Developer Velocity'
-slug: /developervelocity
+slug: /developer-velocity
 ---
 
-# AppDev Trends
-
-## Developer Velocity
+# Developer Velocity
 
 ![](images/03-developervelocity.png)
 

@@ -1,11 +1,9 @@
 ---
 sidebar_label: 'Open Source / Inner Source'
-slug: /opensource
+slug: /open-source
 ---
 
-# AppDev Trends
-
-## Open Source / Inner Source
+# Open Source / Inner Source
 
 ![](images/09-opensource.png)
 

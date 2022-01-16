@@ -1,11 +1,9 @@
 ---
 sidebar_label: 'Low Code / Citizen Developer'
-slug: /lowcode
+slug: /low-code-citizen-developer
 ---
 
-# AppDev Trends
-
-## Low Code / Citizen Developer
+# Low Code / Citizen Developer
 
 ![](images/12-lowcode.png)
 

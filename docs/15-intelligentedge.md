@@ -1,11 +1,9 @@
 ---
 sidebar_label: 'Intelligent Edge'
-slug: /intelligentedge
+slug: /intelligent-edge
 ---
 
-# AppDev Trends
-
-## Intelligent Edge
+# Intelligent Edge
 
 ![](images/15-intelligentedge.png)
 
