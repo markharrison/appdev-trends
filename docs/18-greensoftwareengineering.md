@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Green Software Engineering'
-slug: /Green Software Engineering
+slug: /greensoftwareengineering
 ---
 
 # AppDev Trends
