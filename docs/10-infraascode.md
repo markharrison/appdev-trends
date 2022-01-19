@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Infrastructure as Code'
-slug: /infrastructur-as-code
+slug: /infrastructure-as-code
 ---
 
 # Infrastructure as Code
