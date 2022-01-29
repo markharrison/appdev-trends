@@ -8,7 +8,7 @@ const config = {
   title: 'AppDev Trends',
   tagline: 'AppDev Trends',
   url: 'https://markharrison.io',
-  baseUrl: '/appdevtrends/',
+  baseUrl: '/appdev-trends/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
