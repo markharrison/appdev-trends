@@ -1,11 +1,12 @@
 ---
 sidebar_label: 'Developer Velocity'
 slug: /developer-velocity
+description: Successful companies will be those that empower software developers to achieve more.
 ---
 
 # Developer Velocity
 
-![](images/03-developervelocity.png)
+![Developer Velocity](images/03-developervelocity.png)
 
 We frequently talk about Digital Transformation being fundamental for business success … but it is software innovation that is at the core of DT - and for that you need application development.
 
@@ -17,5 +18,5 @@ Successful companies will be those that empower software developers to achieve m
 &#x2726; <https://visualstudio.microsoft.com/>  
 
 TechTalk Video  
-[![](https://i3.ytimg.com/vi/oK2Lg3YYiuA/mqdefault.jpg)](https://youtu.be/oK2Lg3YYiuA)
+[![Developer Velocity TechTalk](https://i3.ytimg.com/vi/oK2Lg3YYiuA/mqdefault.jpg)](https://youtu.be/oK2Lg3YYiuA)
  
